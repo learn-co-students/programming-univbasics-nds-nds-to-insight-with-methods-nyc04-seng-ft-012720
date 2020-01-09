@@ -22,8 +22,6 @@ end
 def directors_totals(nds)
   result = {}
   nil
-  result = {}
-  nil
   director_index = 0 
 
   while director_index < nds.count do
